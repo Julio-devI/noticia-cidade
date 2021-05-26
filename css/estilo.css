@@ -170,6 +170,18 @@ h3 {
     background: #de003e;
 }
 /*<---------------------------------------------------------->*/
+/*<-- Formatando uls -->*/
+#lista-noticias li{
+padding: 2px;
+border-bottom: 1px solid #ccc;
+height: 65px;
+}
+
+#lista-noticias li a img{
+    float: left;
+    margin: 5px;
+}
+/*<-------------------->*/
 
 /*<-- Rodape -->*/
 #container-rodape {
